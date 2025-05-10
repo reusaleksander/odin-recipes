@@ -32,12 +32,19 @@ p {
     margin-bottom: 25px;
     text-align: center;
     color: #555;
+
+    padding: 15px;
+    border:10px solid slateblue;
+    background:#da47b5;
+    display:inline-block;
 }
 
 /* ===== LIST STYLES ===== */
 ul {
     list-style-type: none;
-    padding: 0;
+    padding: 20px;
+    background:#da47b5
+    border:15px khaki
     display: flex;
     flex-direction: column;
     gap: 15px;
