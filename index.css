@@ -3,7 +3,7 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.6;
-    color: #333;
+    color: #0ee251;
     background-color: #f9f9f9;
     max-width: 800px;
     margin: 0 auto;
@@ -31,11 +31,11 @@ p {
     font-size: 1.1em;
     margin-bottom: 25px;
     text-align: center;
-    color: #555;
+    color: #09c338;
 
     padding: 15px;
-    border:10px solid slateblue;
-    background:#da47b5;
+    border:10px solid rgb(90, 205, 100);
+    background:#6e58ab;
     display:inline-block;
 }
 
